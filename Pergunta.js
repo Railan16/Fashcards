@@ -16,7 +16,7 @@ criaCartao(
     'Uma função é um bloco de código que executa alguma tarefa',
 )
 
-criaCARTAO(
+criaCartao(
     'Lingua inglesa',
     'Como se diz oi em inglês',
     'Oi em inglês é HI (RAI)'
