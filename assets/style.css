@@ -99,7 +99,7 @@ footer p {
 
 @media (max-width: 560px) {
     
-    body{
+    body {
         background: url('img/bg-mobile.webp');
     }
     
@@ -109,5 +109,9 @@ footer p {
 
     .cartao__conteudo h3 {
         font-size: 3vw;
+    }
+
+    .cartao__conteudo p {
+        font-size: 3.8vw;
     }
 }
